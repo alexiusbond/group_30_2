@@ -12,7 +12,7 @@ print(calculator.addition(8, 3))
 
 my_friend = Person('Jim', 33)
 print(my_friend)
-
+# Hi sensei
 cprint("Hello, World!", "green", "on_red")
 print(emoji.emojize('Python is :thumbs_up:'))
 
